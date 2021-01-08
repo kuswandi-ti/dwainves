@@ -1,0 +1,75 @@
+@font-face {
+    font-family: "Font Report";
+    src: url('report-assets/report-font.ttf');
+}
+
+h1 {
+    color: #1d50ea;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.logo {
+    width: 120px;
+}
+
+/* Header Width 3 Item */
+.length-logo {
+    width: 25%;
+}
+
+.length-title {
+    width: 50%;
+}
+
+.length-qr {
+    width: 25%;
+    text-align: center;
+}
+
+.address {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.no-rr {
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.header-box {
+    border: 1px solid black;
+}
+
+.email-box {
+    text-align: center;
+    border: 1px solid rgb(14, 0, 207);
+}
+
+.length-sup1 {
+    width: 50%;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 7px;
+}
+
+.length-sup2 {
+    width: 50%;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 7px;
+}
+
+.table-font {
+    font-size: 14px;
+    border-collapse: collapse;
+}
+
+footer {
+    position: absolute;
+    top: 900px;
+}
